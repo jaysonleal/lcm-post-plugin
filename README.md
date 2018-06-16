@@ -6,4 +6,4 @@ This is a wordpress plugin connecting with other database.
 # Plugin function.
 This plugin will GET every new added data from media_db and directly insert the post to the wordpress.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
